@@ -20,7 +20,7 @@ I'm passionate about advancing life science research by building robust, user-fr
 
 ## 🚀 Featured Project
 
-[![LC-Inspector](https://github.com/MateuszFido/LC-Inspector/raw/main/docs/logo.png)](https://github.com/MateuszFido/LC-Inspector)
+<img width="6302" height="532" alt="image" src="https://github.com/user-attachments/assets/959cbc73-1b21-4ce6-94b6-989f005ab4c4" />
 
 **[LC-Inspector](https://github.com/MateuszFido/LC-Inspector)**  
 Supporting Open Access in research and the Open Source Initiative.  
