@@ -9,7 +9,11 @@
 **[LCMSpector](https://github.com/MateuszFido/LCMSpector)**  
 *An open-source tool for exploring, visualizing, and interpreting LC-MS data.*
 
-![snake gif](https://github.com/mateuszfido/mateuszfido/blob/output/snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <!--Github stats Table--> 
 <h2 align="center"> Gɪᴛʜuʙ Sᴛᴀᴛs </h2>
