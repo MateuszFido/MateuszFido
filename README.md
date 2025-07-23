@@ -61,19 +61,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateuszfido&bg_color=390625&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
-<div id="header" align="center">
-  <img src="https://github.com/mateuszfido/mateuszfido/blob/main/icons_line/undefined%20-%20Imgur.png" width="540" alt="cat-footer" />
-</div>
-
-<img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="160" alt="cat-footer" />
-
-<p align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Thank+you+for+visiting+!+❤+❤+❤)](https://git.io/typing-svg)
-  
-</p> 
-
-
 
 ### 🌏 Reach out on:
 
