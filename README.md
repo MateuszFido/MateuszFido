@@ -4,7 +4,7 @@
 
 ### 📁 Top project:
 
-<img width="6302" height="532" alt="image" src="https://github.com/user-attachments/assets/959cbc73-1b21-4ce6-94b6-989f005ab4c4" />
+[<img width="6302" height="532" alt="image" src="https://github.com/user-attachments/assets/959cbc73-1b21-4ce6-94b6-989f005ab4c4" />](https://github.com/mateuszfido/lcmspector)
 
 **[LCMSpector](https://github.com/MateuszFido/LCMSpector)**  
 *An open-source tool for exploring, visualizing, and interpreting LC-MS data.*
