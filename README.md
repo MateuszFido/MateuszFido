@@ -18,7 +18,7 @@ Mass spectrometry teams should not have to choose between fragmented specialist 
 
 The Basic version of LCMSpector (PySide6) is available on GitHub, and has [binaries for Windows, macOS, and Linux](https://github.com/MateuszFido/LCMSpector/releases)!
 
-[GlycoQuest](https://github.com/MateuszFido/GlycoQuest) is an MIT-licensed Rust CLI tool for glycopeptide-peptide crosslinking analysis, wrapping the Perl engine xQuest.
+[GlycoQuest](https://github.com/MateuszFido/GlycoQuest) is a Rust CLI tool for glycopeptide-peptide crosslinking analysis, wrapping the Perl engine xQuest.
 
 
 ## Start here
