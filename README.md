@@ -7,7 +7,7 @@ I am a mass spectrometrist and research software engineer based in Zurich. I bui
 [**Visit LCMSpector**](https://proxiomics.com) · [**Try the live demo**](https://app.proxiomics.com) · [**Read the docs**](https://proxiomics.com/docs)
 
 <a href="https://app.proxiomics.com">
-  <img src="https://proxiomics.com/images/screenshot-of-app.jpeg" alt="LCMSpector mass spectrometry analysis workspace" width="100%">
+  <img src="assets/lcmspector-banner.png" alt="LCMSpector by Proxiomics — bringing clarity to mass spectrometry data" width="100%">
 </a>
 
 ## Favorite projects
