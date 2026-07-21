@@ -12,13 +12,13 @@ I am a mass spectrometrist and research software engineer based in Zurich. I bui
 
 ## What I am building
 
-[LCMSpector](https://proxiomics.com) is a modern workspace for mass spectrometry data analysis. It brings chromatograms, spectra, XIC tracing, quantification, and export into one clear workflow.
+[LCMSpector](https://proxiomics.com) is a modern workbench for mass spectrometry data analysis. It brings searching, processing, quantification, and export all into one clear workflow.
 
 At Proxiomics, my work spans:
 
 - scientific product direction across proteomics and metabolomics;
 - evidence-linked workflows that keep results open to review;
-- high-performance Rust systems and modern browser interfaces; and
+- high-performance Rust + modern browser interfaces; and
 - product validation, deployment, and customer discovery.
 
 ## Why I am building it
@@ -32,8 +32,6 @@ Mass spectrometry teams should not have to choose between fragmented specialist 
 - [Follow the quick-start guide](https://proxiomics.com/docs)
 - [Explore the open-source research foundation](https://github.com/MateuszFido/LCMSpector)
 
-## Let us connect
-
-If you run LC-MS workflows in a core facility, CRO, or research lab, I would like to hear where today's tools slow you down.
+## Let's connect
 
 [Contact Proxiomics](https://proxiomics.com/contact) · [LinkedIn](https://www.linkedin.com/in/mateusz-fido-7b396b24b/) · [ResearchGate](https://www.researchgate.net/profile/Mateusz-Fido)
