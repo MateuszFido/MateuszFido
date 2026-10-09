@@ -1,8 +1,4 @@
-# Matt Fido
-
-### Founder of [Proxiomics](https://proxiomics.com) · Building [LCMSpector](https://app.proxiomics.com)
-
-I am a mass spectrometrist and research software engineer based in Zurich. I build scientific software that makes LC-MS analysis easier to run, inspect, and trust.
+Mass spectrometrist and RSE based in Zurich -- I build scientific software. Founder of [Proxiomics](https://proxiomics.com)
 
 [**Visit LCMSpector**](https://proxiomics.com) · [**Try the live demo**](https://app.proxiomics.com) · [**Read the docs**](https://proxiomics.com/docs)
 
@@ -21,13 +17,9 @@ The Basic version of LCMSpector (PySide6) is available on GitHub, and has [binar
 [GlycoQuest](https://github.com/MateuszFido/GlycoQuest) is a Rust CLI tool for glycopeptide-peptide crosslinking analysis, wrapping the Perl engine xQuest.
 
 
-## Start here
-
 - [Try LCMSpector with demo data](https://app.proxiomics.com)
 - [Learn about the product and Proxiomics](https://proxiomics.com)
 - [Follow the quick-start guide](https://proxiomics.com/docs)
 - [Explore the open-source research foundation](https://github.com/MateuszFido/LCMSpector)
 
-## Let's connect
-
-[Contact Proxiomics](https://proxiomics.com/contact) · [LinkedIn](https://www.linkedin.com/in/mateusz-fido-7b396b24b/) · [ResearchGate](https://www.researchgate.net/profile/Mateusz-Fido)
+[LinkedIn](https://www.linkedin.com/in/mateusz-fido-7b396b24b/) · [ResearchGate](https://www.researchgate.net/profile/Mateusz-Fido)
