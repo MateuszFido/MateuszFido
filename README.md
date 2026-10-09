@@ -10,8 +10,6 @@ Mass spectrometrist and RSE based in Zurich -- I build scientific software. Foun
 
 [LCMSpector](https://proxiomics.com) is a modern workbench for mass spectrometry data analysis. It brings searching, processing, quantification, and export all into one clear workflow.
 
-Mass spectrometry teams should not have to choose between fragmented specialist tools and simple tools that hide important decisions. My goal is to make routine analysis accessible to more scientists while keeping expert control and raw evidence close at hand.
-
 The Basic version of LCMSpector (PySide6) is available on GitHub, and has [binaries for Windows, macOS, and Linux](https://github.com/MateuszFido/LCMSpector/releases)!
 
 [GlycoQuest](https://github.com/MateuszFido/GlycoQuest) is a Rust CLI tool for glycopeptide-peptide crosslinking analysis, wrapping the Perl engine xQuest.
